@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **singh4991raj@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/7h3w5](https://rb.gy/7h3w5)
+- 📄 Know about my experiences [Resume](https://t.ly/dxC-u)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
