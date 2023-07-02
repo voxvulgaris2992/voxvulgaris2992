@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raj</h1>
 
-- 🔭 I’m currently working on [Itinerary For Me](http://itineraryforme.herokuapp.com/)
+- 🔭 I’m currently working on _Administering Microsoft Azure SQL Solutions (DP-300)_, _Microsoft Power BI Data Analyst (PL-300)_
 
 - 🌱 I’m currently learning **Shopify, T-SQL, PL/SQL, PowerBI, Java**
 
