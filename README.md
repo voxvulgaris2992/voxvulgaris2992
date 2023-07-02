@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raj</h1>
-<h3 align="center">Fullstack Developer from London</h3>
 
 - 🔭 I’m currently working on [Itinerary For Me](http://itineraryforme.herokuapp.com/)
 
-- 🌱 I’m currently learning **Node.js, Express.js, Vue.js, Nuxt.js**
+- 🌱 I’m currently learning **Shopify, T-SQL, PL/SQL, PowerBI, Java**
 
 - 📫 How to reach me **singh4991raj@gmail.com**
 
